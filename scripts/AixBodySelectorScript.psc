@@ -212,10 +212,7 @@ float skinvalue
 
 Event OnReloadSettings(Actor player, ActorBase playerBase)
 	UpdateBody()
-	if skinvalue
-		UpdateSkin()
-	endIf
-	PlayerREF.QueueNiNodeUpdate()
+	RegisterForSingleUpdate(2.0)
 EndEvent
 
 Event On3DLoaded(ObjectReference akRef)
@@ -224,9 +221,7 @@ EndEvent
 
 Event OnCellLoaded(ObjectReference akRef)
 	UpdateBody()
-	if skinvalue
-		RegisterForSingleUpdate(1.0)
-	endIf
+	RegisterForSingleUpdate(1.5)
 EndEvent
 
 Event OnWarpaintRequest()

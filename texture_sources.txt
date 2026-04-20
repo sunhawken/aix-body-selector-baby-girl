@@ -1,0 +1,1683 @@
+
+======================================================================
+Slot 01: VANILLA
+======================================================================
+  femalehead.dds                  [VANILLA     ]  vanilla actors/character/female/
+  femalehead_msn.dds              [VANILLA     ]  vanilla actors/character/female/
+  femalehead_s.dds                [VANILLA     ]  vanilla actors/character/female/
+  femalehead_sk.dds               [VANILLA     ]  vanilla actors/character/female/
+  femalebody_1.dds                [VANILLA     ]  vanilla actors/character/female/
+  femalebody_1_msn.dds            [VANILLA     ]  vanilla actors/character/female/
+  femalebody_1_s.dds              [VANILLA     ]  vanilla actors/character/female/
+  femalebody_1_sk.dds             [VANILLA     ]  vanilla actors/character/female/
+  femalehands_1.dds               [VANILLA     ]  vanilla actors/character/female/
+  femalehands_1_msn.dds           [VANILLA     ]  vanilla actors/character/female/
+  femalehands_1_s.dds             [VANILLA     ]  vanilla actors/character/female/
+  femalehands_1_sk.dds            [VANILLA     ]  vanilla actors/character/female/
+  blankdetailmap.dds              [VANILLA     ]  vanilla actors/character/male/
+
+======================================================================
+Slot 02: 01 - Women of Skyrim - CBBE - Fomod Installer-20555-5--2-1594384891.7z
+======================================================================
+  femalehead.dds                  [01 - Women o]  ...e Head Options\Default Makeup\textures\Actors\Character\Female\femalehead.dds
+  femalehead_msn.dds              [01 - Women o]  0 - Base\textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [01 - Women o]  3 - Specular Options\Default\textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [01 - Women o]  ...Subsurface Options\Default\textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [01 - Women o]  ... Body Options\Shaved - Slim\textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [01 - Women o]  ... Options\Default - Slim\textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [01 - Women o]  3 - Specular Options\Default\textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [01 - Women o]  ...bsurface Options\Default\textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [01 - Women o]  0 - Base\textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [01 - Women o]  0 - Base\textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [01 - Women o]  ...Specular Options\Default\textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [01 - Women o]  ...surface Options\Default\textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [01 - Women o]  0 - Base\textures\actors\character\male\blankdetailmap.DDS
+
+======================================================================
+Slot 03: 03 - Leyenda Skin 4.0 CBBE 2K-10306-4-0.7z
+======================================================================
+  femalehead.dds                  [03 - Leyenda]  COMMON_FACE_DEFAULT\femalehead.dds
+  femalehead_msn.dds              [03 - Leyenda]  COMMON_FACE_DEFAULT\femalehead_msn.dds
+  femalehead_s.dds                [03 - Leyenda]  COMMON_DEFAULT\femalehead_s.dds
+  femalehead_sk.dds               [03 - Leyenda]  COMMON_DEFAULT\femalehead_sk.dds
+  femalebody_1.dds                [03 - Leyenda]  SLIM_DEFAULT_BNIPLES_LEAF\femalebody_1.dds
+  femalebody_1_msn.dds            [03 - Leyenda]  NORMAL_SLIM_MEDIUM_MUSCLES\femalebody_1_msn.dds
+  femalebody_1_s.dds              [03 - Leyenda]  SPECULAR_SILKY\femalebody_1_s.dds
+  femalebody_1_sk.dds             [03 - Leyenda]  COMMON_DEFAULT\femalebody_1_sk.dds
+  femalehands_1.dds               [03 - Leyenda]  COMMON_DEFAULT\femalehands_1.dds
+  femalehands_1_msn.dds           [03 - Leyenda]  COMMON_DEFAULT\femalehands_1_msn.dds
+  femalehands_1_s.dds             [03 - Leyenda]  COMMON_DEFAULT\femalehands_1_s.dds
+  femalehands_1_sk.dds            [03 - Leyenda]  COMMON_DEFAULT\femalehands_1_sk.dds
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 04: Aesthetic Skin CBBE SE-59086-1-0-1638155693.zip
+======================================================================
+  femalehead.dds                  [Aesthetic Sk]  ...hetic Skin CBBE SE\00 Default\textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [Aesthetic Sk]  ...c Skin CBBE SE\00 Default\textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [Aesthetic Sk]  ...tic Skin CBBE SE\00 Default\textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [Aesthetic Sk]  ...ic Skin CBBE SE\00 Default\textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [Aesthetic Sk]  ...kin CBBE SE\01 Pubic\Shaved\textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [Aesthetic Sk]  ...BBE SE\02 Figure\Normal\textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [Aesthetic Sk]  ...c Skin CBBE SE\00 Default\textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [Aesthetic Sk]  ...CBBE SE\02 Figure\Normal\textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [Aesthetic Sk]  ...ic Skin CBBE SE\00 Default\textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [Aesthetic Sk]  ...BE SE\02 Figure\Normal\textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [Aesthetic Sk]  ... Skin CBBE SE\00 Default\textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [Aesthetic Sk]  ...BBE SE\02 Figure\Normal\textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 05: BI CBBE-24394-v2-3.7z
+======================================================================
+  femalehead.dds                  [BI CBBE-2439]  B.I v2.3 CBBE\data\Base04\femalehead.dds
+  femalehead_msn.dds              [BI CBBE-2439]  B.I v2.3 CBBE\data\Base04\femalehead_msn.dds
+  femalehead_s.dds                [BI CBBE-2439]  B.I v2.3 CBBE\data\Base04\femalehead_s.dds
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [BI CBBE-2439]  B.I v2.3 CBBE\data\Base04\femalebody_1.dds
+  femalebody_1_msn.dds            [BI CBBE-2439]  B.I v2.3 CBBE\data\Base04\femalebody_1_msn.dds
+  femalebody_1_s.dds              [BI CBBE-2439]  B.I v2.3 CBBE\data\Base01\femalebody_1_s.dds
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [BI CBBE-2439]  B.I v2.3 CBBE\data\Base04\femalehands_1.dds
+  femalehands_1_msn.dds           [BI CBBE-2439]  B.I v2.3 CBBE\data\Base01\femalehands_1_msn.dds
+  femalehands_1_s.dds             [BI CBBE-2439]  B.I v2.3 CBBE\data\Base01\femalehands_1_s.dds
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 06: Baby Girl CBBE-92195-2-1686399777.zip
+======================================================================
+  femalehead.dds                  [Baby Girl CB]  textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [Baby Girl CB]  textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [Baby Girl CB]  textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [Baby Girl CB]  textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [Baby Girl CB]  textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [Baby Girl CB]  textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [Baby Girl CB]  textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [Baby Girl CB]  textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [Baby Girl CB]  textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [Baby Girl CB]  textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [Baby Girl CB]  textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [Baby Girl CB]  textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [Baby Girl CB]  textures\actors\character\male\blankdetailmap.dds
+
+======================================================================
+Slot 07: Barbarous Beauty CBBE 2048-38604-V1-1595569088.7z
+======================================================================
+  femalehead.dds                  [Barbarous Be]  ...ed)\Common (Required)\Sunburn\textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [Barbarous Be]  ...Common (Required)\Sunburn\textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [Barbarous Be]  ...ecular Maps\10% Specularity\textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [Barbarous Be]  ...\Common (Required)\Sunburn\textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [Barbarous Be]  ...rned (No Tanlines - Shaved)\textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [Barbarous Be]  ...ps\Muscular Normal Maps\textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [Barbarous Be]  ...ular Maps\10% Specularity\textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [Barbarous Be]  ...ommon (Required)\Sunburn\textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [Barbarous Be]  ...\Common (Required)\Sunburn\textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [Barbarous Be]  ...mon (Required)\Sunburn\textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [Barbarous Be]  ...lar Maps\10% Specularity\textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [Barbarous Be]  ...mmon (Required)\Sunburn\textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 08: Bijin Skin CBBE-20078-1-4-1541714925.7z
+======================================================================
+  femalehead.dds                  [Bijin Skin C]  ... Head Options\Default Head 2K\textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [Bijin Skin C]  0 - Base\textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [Bijin Skin C]  ...Specular Options\Default 2K\textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [Bijin Skin C]  ...Subsurface Options\Default\textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [Bijin Skin C]  ...use Body Options\2K - Pubic\textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [Bijin Skin C]  2 - Normal Options\Default\textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [Bijin Skin C]  ...ecular Options\Default 2K\textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [Bijin Skin C]  ...bsurface Options\Default\textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [Bijin Skin C]  0 - Base\textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [Bijin Skin C]  0 - Base\textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [Bijin Skin C]  ...cular Options\Default 2K\textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [Bijin Skin C]  ...surface Options\Default\textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [Bijin Skin C]  0 - Base\textures\actors\character\male\blankdetailmap.dds
+
+======================================================================
+Slot 09: BnP female skin 2k (CBBE Player and Replacer)-65274-2-0-1688931865.7z
+======================================================================
+  femalehead.dds                  [BnP female s]  ...iffuse selection\veiny\+veiny\textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [BnP female s]  ...ions\face normal\1.7young\textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [BnP female s]  ...tions\specular\default\dark\textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [BnP female s]  ...- Replacer+Player version)\textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [BnP female s]  ...fuse selection\veiny\+veiny\textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [BnP female s]  ...y normal\big boobs\soft\textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [BnP female s]  ...ons\specular\default\dark\textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [BnP female s]  ...Replacer+Player version)\textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [BnP female s]  ...use selection\veiny\+veiny\textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [BnP female s]  ...placer+Player version)\textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [BnP female s]  ...\specular\default\shared\textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [BnP female s]  ...eplacer+Player version)\textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [BnP female s]  ... - Replacer+Player version)\textures\actors\character\male\blankdetailmap.dds
+
+======================================================================
+Slot 10: DDG Skin 4K-65588-2-02-1650534890.7z
+======================================================================
+  femalehead.dds                  [DDG Skin 4K-]  textures\actors\character\female\00base\femalehead.dds
+  femalehead_msn.dds              [DDG Skin 4K-]  textures\actors\character\female\00base\femalehead_msn.dds
+  femalehead_s.dds                [DDG Skin 4K-]  textures\actors\character\female\mature_s\femalehead_s.dds
+  femalehead_sk.dds               [DDG Skin 4K-]  textures\actors\character\female\sss\femalehead_sk.dds
+  femalebody_1.dds                [DDG Skin 4K-]  textures\actors\character\female\00base\femalebody_1.dds
+  femalebody_1_msn.dds            [DDG Skin 4K-]  textures\actors\character\female\muscle_n\femalebody_1_msn.dds
+  femalebody_1_s.dds              [DDG Skin 4K-]  textures\actors\character\female\mature_s\femalebody_1_s.dds
+  femalebody_1_sk.dds             [DDG Skin 4K-]  textures\actors\character\female\sss\femalebody_1_sk.dds
+  femalehands_1.dds               [DDG Skin 4K-]  textures\actors\character\female\00base\femalehands_1.dds
+  femalehands_1_msn.dds           [DDG Skin 4K-]  textures\actors\character\female\00base\femalehands_1_msn.dds
+  femalehands_1_s.dds             [DDG Skin 4K-]  textures\actors\character\female\mature_s\femalehands_1_s.dds
+  femalehands_1_sk.dds            [DDG Skin 4K-]  textures\actors\character\female\sss\femalehands_1_sk.dds
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 11: DIBELLAN - True Skin for CBBE based bodies-63151-4-0-1646258246.7z
+======================================================================
+  femalehead.dds                  [DIBELLAN - T]  1 - 2K\3 - 2K Common\textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [DIBELLAN - T]  0 - Common 2k\textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [DIBELLAN - T]  1 - 2K\3 - 2K Common\textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [DIBELLAN - T]  ...Subsurface Options\Default\textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [DIBELLAN - T]  ...e Options\Default 2K - Bare\textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [DIBELLAN - T]  ...rmal Options\Default 2K\textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [DIBELLAN - T]  1 - 2K\3 - 2K Common\textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [DIBELLAN - T]  ...bsurface Options\Default\textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [DIBELLAN - T]  1 - 2K\3 - 2K Common\textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [DIBELLAN - T]  0 - Common 2k\textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [DIBELLAN - T]  1 - 2K\3 - 2K Common\textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [DIBELLAN - T]  ...surface Options\Default\textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [DIBELLAN - T]  0 - Common 2k\textures\actors\character\male\blankdetailmap.DDS
+
+======================================================================
+Slot 12: Demoniac v1.12a - CBBE only - SE-19355-1-12a.7z
+======================================================================
+  femalehead.dds                  [Demoniac v1.]  CBBE\Diffuse\CBBE_d_RG_2K\textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [Demoniac v1.]  CBBE\CBBE_n_base\textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [Demoniac v1.]  CBBE\Specular\CBBE_s_G_4K\textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [Demoniac v1.]  CBBE\CBBE_sk\textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [Demoniac v1.]  CBBE\Diffuse\CBBE_d_RG_2K\textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [Demoniac v1.]  CBBE\CBBE_n_base\textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [Demoniac v1.]  CBBE\Specular\CBBE_s_G_4K\textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [Demoniac v1.]  CBBE\CBBE_sk\textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [Demoniac v1.]  CBBE\Diffuse\CBBE_d_RG_2K\textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [Demoniac v1.]  CBBE\CBBE_n_base\textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [Demoniac v1.]  CBBE\Specular\CBBE_s_G_4K\textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [Demoniac v1.]  CBBE\CBBE_sk\textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 13: Diamond 3BA puffy pussy normal maps-45718-2-6-1745768312.7z
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [Diamond 3BA ]  ...ormal maps\head_N\default\textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [Diamond 3BA ]  ...body_n\chubby map(slim)\textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [Diamond 3BA ]  ...ssy normal maps\00main\textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 14: Diamond Textures CBBE v2 based on FSC v11-45718-2-6-1745767979.7z
+======================================================================
+  femalehead.dds                  [Diamond Text]  ... CBBE v2.6\Head_D\fsc v8_lips\textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [Diamond Text]  ... CBBE v2.6\head_N\default\textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [Diamond Text]  ...es CBBE v2.6\Head_S\default\textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [Diamond Text]  ...Textures CBBE v2.6\Body_sk\textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [Diamond Text]  ....6\Body_options\Nred_shaved\textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [Diamond Text]  ...body_n\chubby map(slim)\textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [Diamond Text]  ...Textures CBBE v2.6\00main\textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [Diamond Text]  ...xtures CBBE v2.6\Body_sk\textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [Diamond Text]  ... Textures CBBE v2.6\00main\textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [Diamond Text]  ...tures CBBE v2.6\00main\textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [Diamond Text]  ...extures CBBE v2.6\00main\textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [Diamond Text]  ...tures CBBE v2.6\Body_sk\textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [Diamond Text]  ...e Textures CBBE v2.6\00main\textures\actors\character\male\blankdetailmap.dds
+
+======================================================================
+Slot 15: Eos Skin AIO-80326-1-21-1672829714.7z
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [Eos Skin AIO]  textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [Eos Skin AIO]  textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [Eos Skin AIO]  textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [Eos Skin AIO]  textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [Eos Skin AIO]  textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [Eos Skin AIO]  textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [Eos Skin AIO]  textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [Eos Skin AIO]  textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [Eos Skin AIO]  textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [Eos Skin AIO]  textures\actors\character\male\blankdetailmap.dds
+
+======================================================================
+Slot 16: Fair Skin Complexion for CBBE v13.0-798-13-0-1770011213.7z
+======================================================================
+  femalehead.dds                  [Fair Skin Co]  ...for CBBE v13.0 SE\Skin_d_base\textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [Fair Skin Co]  ...CBBE v13.0 SE\Skin_n_base\textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [Fair Skin Co]  ...r CBBE v13.0 SE\Skin_s_base\textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [Fair Skin Co]  ... for CBBE v13.0 SE\Skin_sk\textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [Fair Skin Co]  ...r CBBE v13.0 SE\Skin_d_slim\textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [Fair Skin Co]  ...BE v13.0 SE\Skin_n_slim\textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [Fair Skin Co]  ...BBE v13.0 SE\Skin_s_silky\textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [Fair Skin Co]  ...or CBBE v13.0 SE\Skin_sk\textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [Fair Skin Co]  ... CBBE v13.0 SE\Skin_d_base\textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [Fair Skin Co]  ...E v13.0 SE\Skin_n_base\textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [Fair Skin Co]  ...BBE v13.0 SE\Skin_s_base\textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [Fair Skin Co]  ...r CBBE v13.0 SE\Skin_sk\textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [Fair Skin Co]  ... for CBBE v13.0 SE\Freckles\textures\actors\character\male\blankdetailmap.dds
+
+======================================================================
+Slot 17: GoldenVeil Skin-175578-1-00-1774462341.zip
+======================================================================
+  femalehead.dds                  [GoldenVeil S]  Data\Textures\Actors\Character\Female\femalehead.dds
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [GoldenVeil S]  Data\Textures\Actors\Character\Female\femalebody_1.dds
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [GoldenVeil S]  Data\Textures\Actors\Character\Female\femalehands_1.dds
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 18: Lovergirl CBBE-83763-1-1675006751.zip
+======================================================================
+  femalehead.dds                  [Lovergirl CB]  textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [Lovergirl CB]  textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [Lovergirl CB]  textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [Lovergirl CB]  textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [Lovergirl CB]  textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [Lovergirl CB]  textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [Lovergirl CB]  textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [Lovergirl CB]  textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [Lovergirl CB]  textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [Lovergirl CB]  textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [Lovergirl CB]  textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [Lovergirl CB]  textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [Lovergirl CB]  textures\actors\character\male\blankdetailmap.dds
+
+======================================================================
+Slot 19: Marshmallow Skin CBBE 4K-58713-1-1-1637547978.7z
+======================================================================
+  femalehead.dds                  [Marshmallow ]  textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [Marshmallow ]  textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [Marshmallow ]  textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 20: Mature Skin - CBBE-26017-2-15-2-1560516171.7z
+======================================================================
+  femalehead.dds                  [Mature Skin ]  ...ace\Diffuse\young\moles_scars\Textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [Mature Skin ]  HD\Face\Normal Maps\young\Textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [Mature Skin ]  HD\Face\Specular\Textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [Mature Skin ]  HD\Face\Common\Textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [Mature Skin ]  ...ung\Body Shaved Moles Scars\Textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [Mature Skin ]  ...y Normal Maps\CBBE slim\Textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [Mature Skin ]  HD\CBBE\Body Specular Maps\Textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [Mature Skin ]  HD\CBBE\Body Common\Textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [Mature Skin ]  HD\CBBE\Young\Body Common\Textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [Mature Skin ]  ... Normal Maps\CBBE slim\Textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [Mature Skin ]  HD\CBBE\Body Specular Maps\Textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [Mature Skin ]  HD\CBBE\Body Common\Textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [Mature Skin ]  HD\Face\Complexion\Textures\actors\character\male\blankdetailmap.dds
+
+======================================================================
+Slot 21: Mature Skin Complexion for CBBE-90848-1-2-1684056989.zip
+======================================================================
+  femalehead.dds                  [Mature Skin ]  My Version\textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [Mature Skin ]  My Version\textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [Mature Skin ]  My Version\textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [Mature Skin ]  My Version\textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [Mature Skin ]  My Version\textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [Mature Skin ]  My Version\textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [Mature Skin ]  My Version\textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [Mature Skin ]  My Version\textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [Mature Skin ]  My Version\textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [Mature Skin ]  My Version\textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [Mature Skin ]  My Version\textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [Mature Skin ]  My Version\textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [Mature Skin ]  My Version\textures\actors\character\male\blankdetailmap.dds
+
+======================================================================
+Slot 22: Noble Elegance Skin Textures - Author's Choice-106378-v1-00-1701974945.rar
+======================================================================
+  femalehead.dds                  [Noble Elegan]  textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [Noble Elegan]  textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [Noble Elegan]  textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [Noble Elegan]  textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [Noble Elegan]  textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [Noble Elegan]  textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [Noble Elegan]  textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [Noble Elegan]  textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [Noble Elegan]  textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [Noble Elegan]  textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [Noble Elegan]  textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [Noble Elegan]  textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [Noble Elegan]  textures\actors\character\male\blankdetailmap.dds
+
+======================================================================
+Slot 23: Northbourne Maiden Skin CBBE-61803-1-0-1641974520.7z
+======================================================================
+  femalehead.dds                  [Northbourne ]  textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [Northbourne ]  textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [Northbourne ]  textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [Northbourne ]  textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [Northbourne ]  textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [Northbourne ]  textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [Northbourne ]  textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [Northbourne ]  textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [Northbourne ]  textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [Northbourne ]  textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [Northbourne ]  textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [Northbourne ]  textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [Northbourne ]  textures\actors\character\male\blankdetailmap.dds
+
+======================================================================
+Slot 24: PB's Silky Skin-95818-2-1-1721031275.zip
+======================================================================
+  femalehead.dds                  [PB's Silky S]  PB's Silky Skin\textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [PB's Silky S]  PB's Silky Skin\textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [PB's Silky S]  PB's Silky Skin\textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [PB's Silky S]  PB's Silky Skin\textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [PB's Silky S]  ...bic Area Options\Paw - Slim\textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [PB's Silky S]  ...ooth Normal Maps - Slim\textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [PB's Silky S]  PB's Silky Skin\textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [PB's Silky S]  PB's Silky Skin\textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [PB's Silky S]  PB's Silky Skin\textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [PB's Silky S]  PB's Silky Skin\textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [PB's Silky S]  PB's Silky Skin\textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [PB's Silky S]  PB's Silky Skin\textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [PB's Silky S]  PB's Silky Skin\textures\actors\character\male\blankdetailmap.dds
+
+======================================================================
+Slot 25: Pride of Valhalla CBBE - Midgard-682-v1-3.rar
+======================================================================
+  femalehead.dds                  [Pride of Val]  ... Valhalla CBBE - Midgard\data\textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [Pride of Val]  ...halla CBBE - Midgard\data\textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [Pride of Val]  ...alhalla CBBE - Midgard\data\textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [Pride of Val]  ...lhalla CBBE - Midgard\data\textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [Pride of Val]  ...alhalla CBBE - Midgard\data\textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [Pride of Val]  ...lla CBBE - Midgard\data\textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [Pride of Val]  ...halla CBBE - Midgard\data\textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [Pride of Val]  ...alla CBBE - Midgard\data\textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [Pride of Val]  ...lhalla CBBE - Midgard\data\textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [Pride of Val]  ...la CBBE - Midgard\data\textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [Pride of Val]  ...alla CBBE - Midgard\data\textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [Pride of Val]  ...lla CBBE - Midgard\data\textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 26: Pure Suka Skin  v2.7z
+======================================================================
+  femalehead.dds                  [Pure Suka Sk]  textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [Pure Suka Sk]  textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [Pure Suka Sk]  textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [Pure Suka Sk]  textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [Pure Suka Sk]  textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [Pure Suka Sk]  textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [Pure Suka Sk]  textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [Pure Suka Sk]  textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [Pure Suka Sk]  textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [Pure Suka Sk]  textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [Pure Suka Sk]  textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [Pure Suka Sk]  textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 27: REALORE ULTIMA V2.1 - CBBE 4K-65577-2-1-1-1652866866.zip
+======================================================================
+  femalehead.dds                  [REALORE ULTI]  Common\textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [REALORE ULTI]  age\young\textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [REALORE ULTI]  Speculars\Default\textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [REALORE ULTI]  Common\textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [REALORE ULTI]  Niptype\1\Shaved\armpit\textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [REALORE ULTI]  Normals\CBBE-Slim\smooth\textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [REALORE ULTI]  Speculars\Default\textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [REALORE ULTI]  Common\textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [REALORE ULTI]  Common\textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [REALORE ULTI]  Normals\CBBE-Slim\smooth\textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [REALORE ULTI]  Speculars\Default\textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [REALORE ULTI]  Common\textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [REALORE ULTI]  Common\textures\actors\character\male\blankdetailmap.dds
+
+======================================================================
+Slot 28: Real Girls Realistic Body Texture 2K (Original Version)-75065-6-0-1662842664.zip
+======================================================================
+  femalehead.dds                  [Real Girls R]  textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [Real Girls R]  textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [Real Girls R]  textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 29: Reverie-64314-1-11-2-1727366169.7z
+======================================================================
+  femalehead.dds                  [Reverie-6431]  1. Customisation\1. Head\1. Diffuse\2. Aging\FemaleHead.dds
+  femalehead_msn.dds              [Reverie-6431]  2. Compatibility\1. Head\1. ECE\0. Core\Female\FemaleHead_MSN.dds
+  femalehead_s.dds                [Reverie-6431]  2. Compatibility\1. Head\1. ECE\0. Core\Female\FemaleHead_S.dds
+  femalehead_sk.dds               [Reverie-6431]  0. Required Installations\Textures\Actors\Character\Female\FemaleHead_SK.dds
+  femalebody_1.dds                [Reverie-6431]  1. Customisation\2. Body\1. Diffuse\2. Unshaved\0. Core\FemaleBody_1.dds
+  femalebody_1_msn.dds            [Reverie-6431]  1. Customisation\2. Body\2. Normal\2. Strong\FemaleBody_1_MSN.dds
+  femalebody_1_s.dds              [Reverie-6431]  2. Compatibility\2. Body\1. UNP\0. Core\Female\FemaleBody_1_S.dds
+  femalebody_1_sk.dds             [Reverie-6431]  0. Required Installations\Textures\Actors\Character\Female\FemaleBody_1_SK.dds
+  femalehands_1.dds               [Reverie-6431]  0. Required Installations\Textures\Actors\Character\Female\FemaleHands_1.dds
+  femalehands_1_msn.dds           [Reverie-6431]  2. Compatibility\2. Body\2. CBBE\0. Core\Female\FemaleHands_1_MSN.dds
+  femalehands_1_s.dds             [Reverie-6431]  0. Required Installations\Textures\Actors\Character\Female\FemaleHands_1_S.dds
+  femalehands_1_sk.dds            [Reverie-6431]  0. Required Installations\Textures\Actors\Character\Female\FemaleHands_1_SK.dds
+  blankdetailmap.dds              [Reverie-6431]  0. Required Installations\Textures\Actors\Character\Male\BlankDetailMap.dds
+
+======================================================================
+Slot 30: Rogue Women of Skyrim CBBE-78938-1-0-1670496981.7z
+======================================================================
+  femalehead.dds                  [Rogue Women ]  00Data\0Common\textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [Rogue Women ]  00Data\0Common\textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [Rogue Women ]  00Data\3Speculars\0Default\textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [Rogue Women ]  00Data\0Common\textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [Rogue Women ]  00Data\1BodyOptions\1Hairy\textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [Rogue Women ]  ...ta\2BodyNormals\0Normal\textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [Rogue Women ]  00Data\3Speculars\0Default\textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [Rogue Women ]  00Data\0Common\textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [Rogue Women ]  00Data\0Common\textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [Rogue Women ]  00Data\0Common\textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [Rogue Women ]  00Data\3Speculars\0Default\textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [Rogue Women ]  00Data\0Common\textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [Rogue Women ]  00Data\0Common\textures\actors\character\male\blankdetailmap.DDS
+
+======================================================================
+Slot 31: SG Female Textures Renewal-12938-1-4-1541252032.7z
+======================================================================
+  femalehead.dds                  [SG Female Te]  0 - Common\textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [SG Female Te]  0 - Common\textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [SG Female Te]  3 - Specular - Default\textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [SG Female Te]  4 - Subsurface - Dark Red\textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [SG Female Te]  ...se - 2K Scars No Pubic Hair\textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [SG Female Te]  ...Normal - Default - Slim\textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [SG Female Te]  3 - Specular - Default\textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [SG Female Te]  4 - Subsurface - Dark Red\textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [SG Female Te]  0 - Common\textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [SG Female Te]  0 - Common\textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [SG Female Te]  3 - Specular - Default\textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [SG Female Te]  4 - Subsurface - Dark Red\textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [SG Female Te]  0 - Common\textures\actors\character\male\blankdetailmap.dds
+
+======================================================================
+Slot 32: Sunkiss Skin 4K-70597-1-20-1658918615.7z
+======================================================================
+  femalehead.dds                  [Sunkiss Skin]  textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [Sunkiss Skin]  textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [Sunkiss Skin]  textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [Sunkiss Skin]  textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [Sunkiss Skin]  textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [Sunkiss Skin]  textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [Sunkiss Skin]  textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [Sunkiss Skin]  textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [Sunkiss Skin]  textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [Sunkiss Skin]  textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [Sunkiss Skin]  textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [Sunkiss Skin]  textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 33: Tempered Skins for Females CBBE-8505-1-32-1604152171.7z
+======================================================================
+  femalehead.dds                  [Tempered Ski]  ... diffuse options\D1 - Younger\textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [Tempered Ski]  ...rmal options\E2 - Rougher\textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [Tempered Ski]  ...iffuse options\D1 - Younger\textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [Tempered Ski]  0 - Common files\textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [Tempered Ski]  ...B3 - Clean, hairy, no scars\textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [Tempered Ski]  ...C2 - Fit, lesser breast\textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [Tempered Ski]  ... - Clean, hairy, no scars\textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [Tempered Ski]  0 - Common files\textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [Tempered Ski]  ...-B6 - Hands for clean body\textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [Tempered Ski]  ...2 - Fit, lesser breast\textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [Tempered Ski]  ...6 - Hands for clean body\textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [Tempered Ski]  0 - Common files\textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [Tempered Ski]  0 - Common files\textures\actors\character\male\blankdetailmap.dds
+
+======================================================================
+Slot 34: The Pure - CBBE-20583-1-3-1-1551788502.7z
+======================================================================
+  femalehead.dds                  [The Pure - C]  1 - Diffuse Options\Default 4K\textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [The Pure - C]  0 - Base\textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [The Pure - C]  3 - Specular Options\Wet\textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [The Pure - C]  ...Subsurface Options\Default\textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [The Pure - C]  ... Options\Default 4K - Pubic\textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [The Pure - C]  ...tions\Default 2K - Slim\textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [The Pure - C]  3 - Specular Options\Wet\textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [The Pure - C]  ...bsurface Options\Default\textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [The Pure - C]  ...Diffuse Options\Default 4K\textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [The Pure - C]  0 - Base\textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [The Pure - C]  3 - Specular Options\Wet\textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [The Pure - C]  ...surface Options\Default\textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [The Pure - C]  0 - Base\textures\actors\character\male\blankdetailmap.DDS
+
+======================================================================
+Slot 35: True North Maiden face and Body X.69.1 Beta 2k mix-51796-X-69-1-1636046428.7z
+======================================================================
+  femalehead.dds                  [True North M]  TrueNorthMaiden-X_69_1 Beta 2k\Textures\Actors\Character\Female\femalehead.dds
+  femalehead_msn.dds              [True North M]  ...orthMaiden-X_69_1 Beta 2k\Textures\Actors\Character\Female\femalehead_msn.dds
+  femalehead_s.dds                [True North M]  TrueNorthMaiden-X_69_1 Beta 2k\Textures\Actors\Character\Female\femalehead_s.dds
+  femalehead_sk.dds               [True North M]  ...NorthMaiden-X_69_1 Beta 2k\Textures\Actors\Character\Female\femalehead_sk.dds
+  femalebody_1.dds                [True North M]  TrueNorthMaiden-X_69_1 Beta 2k\Textures\Actors\Character\Female\femalebody_1.dds
+  femalebody_1_msn.dds            [True North M]  ...thMaiden-X_69_1 Beta 2k\Textures\Actors\Character\Female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [True North M]  ...orthMaiden-X_69_1 Beta 2k\Textures\Actors\Character\Female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [True North M]  ...rthMaiden-X_69_1 Beta 2k\Textures\Actors\Character\Female\femalebody_1_sk.dds
+  femalehands_1.dds               [True North M]  ...NorthMaiden-X_69_1 Beta 2k\Textures\Actors\Character\Female\femalehands_1.dds
+  femalehands_1_msn.dds           [True North M]  ...hMaiden-X_69_1 Beta 2k\Textures\Actors\Character\Female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [True North M]  ...rthMaiden-X_69_1 Beta 2k\Textures\Actors\Character\Female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [True North M]  ...thMaiden-X_69_1 Beta 2k\Textures\Actors\Character\Female\femalehands_1_sk.dds
+  blankdetailmap.dds              [True North M]  TrueNorthMaiden-X_69_1 Beta 2k\Textures\Actors\Character\male\blankdetailmap.DDS
+
+======================================================================
+Slot 36: Vera Skin v2-55334-2-6-1636796885.7z
+======================================================================
+  femalehead.dds                  [Vera Skin v2]  textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [Vera Skin v2]  textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [Vera Skin v2]  textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [Vera Skin v2]  textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [Vera Skin v2]  textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [Vera Skin v2]  textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [Vera Skin v2]  textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [Vera Skin v2]  textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [Vera Skin v2]  textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [Vera Skin v2]  textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [Vera Skin v2]  textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [Vera Skin v2]  textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 37: Zhizhenfemaleskin4K3BA-126288-3-6-1741347922.zip
+======================================================================
+  femalehead.dds                  [Zhizhenfemal]  ...election\diffuse body\default\textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [Zhizhenfemal]  ...tion\diffuse body\default\textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [Zhizhenfemal]  ...ection\diffuse body\default\textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [Zhizhenfemal]  ...ction\diffuse body\default\textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [Zhizhenfemal]  ...Selection\diffuse body\hair\textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [Zhizhenfemal]  ...ion\diffuse body\health\textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [Zhizhenfemal]  ...tion\diffuse body\default\textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [Zhizhenfemal]  ...ion\diffuse body\default\textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [Zhizhenfemal]  ...ction\diffuse body\default\textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [Zhizhenfemal]  ...n\diffuse body\default\textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [Zhizhenfemal]  ...ion\diffuse body\default\textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [Zhizhenfemal]  ...on\diffuse body\default\textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [Zhizhenfemal]  ...ection\diffuse body\default\textures\actors\character\male\blankdetailmap.dds
+
+======================================================================
+Slot 38: laogu 16Kskin CBBE 3BA-174370-1-5-97-1773138956.zip
+======================================================================
+  femalehead.dds                  [laogu 16Kski]  textures\actors\character\female\femalehead.dds
+  femalehead_msn.dds              [laogu 16Kski]  textures\actors\character\female\femalehead_msn.dds
+  femalehead_s.dds                [laogu 16Kski]  textures\actors\character\female\femalehead_s.dds
+  femalehead_sk.dds               [laogu 16Kski]  textures\actors\character\female\femalehead_sk.dds
+  femalebody_1.dds                [laogu 16Kski]  textures\actors\character\female\femalebody_1.dds
+  femalebody_1_msn.dds            [laogu 16Kski]  textures\actors\character\female\femalebody_1_msn.dds
+  femalebody_1_s.dds              [laogu 16Kski]  textures\actors\character\female\femalebody_1_s.dds
+  femalebody_1_sk.dds             [laogu 16Kski]  textures\actors\character\female\femalebody_1_sk.dds
+  femalehands_1.dds               [laogu 16Kski]  textures\actors\character\female\femalehands_1.dds
+  femalehands_1_msn.dds           [laogu 16Kski]  textures\actors\character\female\femalehands_1_msn.dds
+  femalehands_1_s.dds             [laogu 16Kski]  textures\actors\character\female\femalehands_1_s.dds
+  femalehands_1_sk.dds            [laogu 16Kski]  textures\actors\character\female\femalehands_1_sk.dds
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 39: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 40: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 41: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 42: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 43: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 44: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 45: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 46: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 47: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 48: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 49: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 50: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 51: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 52: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 53: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 54: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 55: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 56: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 57: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 58: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 59: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 60: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 61: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 62: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 63: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 64: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 65: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 66: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 67: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 68: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 69: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 70: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 71: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 72: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 73: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 74: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 75: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 76: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 77: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 78: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 79: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 80: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 81: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 82: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 83: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 84: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 85: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 86: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 87: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 88: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 89: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 90: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 91: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 92: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 93: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 94: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 95: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 96: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 97: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 98: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback
+
+======================================================================
+Slot 99: CBBE
+======================================================================
+  femalehead.dds                  [CBBE        ]  CBBE fallback
+  femalehead_msn.dds              [CBBE        ]  CBBE fallback
+  femalehead_s.dds                [CBBE        ]  CBBE fallback
+  femalehead_sk.dds               [CBBE        ]  CBBE fallback
+  femalebody_1.dds                [CBBE        ]  CBBE fallback
+  femalebody_1_msn.dds            [CBBE        ]  CBBE fallback
+  femalebody_1_s.dds              [CBBE        ]  CBBE fallback
+  femalebody_1_sk.dds             [CBBE        ]  CBBE fallback
+  femalehands_1.dds               [CBBE        ]  CBBE fallback
+  femalehands_1_msn.dds           [CBBE        ]  CBBE fallback
+  femalehands_1_s.dds             [CBBE        ]  CBBE fallback
+  femalehands_1_sk.dds            [CBBE        ]  CBBE fallback
+  blankdetailmap.dds              [CBBE        ]  CBBE fallback

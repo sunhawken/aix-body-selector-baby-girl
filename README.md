@@ -3,7 +3,7 @@
 
 A heavily expanded version of [RaceMenu Selector of Skins](https://www.nexusmods.com/skyrimspecialedition/mods/126721), grown from 4 slots to **99 skin slots** — each one a different CBBE female skin texture set packed in automatically from the archives.
 
-The MCM slider in RaceMenu handles the swap live, no save reload needed. Slot 0 reverts to your default character skin. Every slot swaps face, body, and hands textures simultaneously. Player-only — NPCs are completely unaffected.
+The MCM slider in RaceMenu handles the swap live, no save reload needed. Slot 0 reverts to your default character skin. Every slot swaps face, body, and hands textures simultaneously. Player-only — NPCs are completely unaffected. Selected slot persists through saves, loads, and cell transitions.
 
 ---
 

@@ -1,9 +1,26 @@
 # RaceMenu Selector of Skins — Baby Girl Edition
-### 99 Skin Slots · CBBE 3BA · UBE · Face + Body + Hands
+### v1.5 · 99 Skin Slots · CBBE 3BA · UBE · Face + Body + Hands
 
 A heavily expanded version of [RaceMenu Selector of Skins](https://www.nexusmods.com/skyrimspecialedition/mods/126721), grown from 4 slots to **99 skin slots** — each one a different CBBE female skin texture set packed in automatically from the archives.
 
 The MCM slider in RaceMenu handles the swap live, no save reload needed. Slot 0 reverts to your default character skin. Every slot swaps face, body, and hands textures simultaneously. Player-only — NPCs are completely unaffected. Selected slot persists through saves, loads, and cell transitions.
+
+---
+
+## Changelog
+
+### v1.5
+- Full mod files included in repo (`mod/` folder — drop contents into your Data folder)
+- Meshes for CBBE 3BA, UBE, and Unique body presets included
+- Optional SOS schlong selector ESP included
+- Consolidated texture installer `scripts/install_v2.py` replaces the two separate scripts
+
+### v1.0.3
+- Fixed vampire races missing from NakedHands and NakedFeet ArmorAddons across all 99 slots
+- Fixed skin not restoring after save/load or cell transitions — deferred sync now waits for NiOverride cosave data to be ready before re-applying
+
+### v1.1
+- Initial fix attempt for save/load sync (superseded by v1.0.3)
 
 ---
 
@@ -98,8 +115,8 @@ blankdetailmap.dds
 ### Option B — Auto-install scripts (recommended)
 
 1. Place your skin mod archives in a `skin/` subfolder inside your MO2 downloads folder
-2. Edit the paths at the top of `scripts/install_body.py` and `scripts/install_skins2.py`
-3. Run both scripts — they auto-detect and extract the correct textures, falling back to CBBE for any missing files
+2. Edit the paths at the top of `scripts/install_v2.py`
+3. Run it — auto-detects and extracts the correct textures for every slot, falling back to CBBE for any missing files, and overwrites only if the source file is larger
 
 ---
 
@@ -129,14 +146,33 @@ You can also replace textures while the game is running — the swap takes effec
 
 ---
 
+## Repo Layout
+
+```
+mod/                        ← drop contents into your Data folder
+  AixBodySelector.esp
+  Scripts/                  ← compiled Papyrus scripts (.pex)
+  meshes/                   ← CBBE 3BA / UBE / Unique body meshes
+  optional/
+    AixSchlongSelector.esp  ← optional SOS integration
+
+scripts/                    ← texture installer utilities
+  install_v2.py             ← all-in-one installer (replaces install_body + install_skins2)
+  fix_failed_slots.py
+  survey_body.py
+
+source/scripts/             ← Papyrus source (.psc)
+```
+
 ## Scripts
 
 | Script | Purpose |
 |--------|---------|
-| `install_skins2.py` | Extracts face textures (femalehead × 4) from all 37 skin archives |
-| `install_body.py` | Extracts body/hands/blankdetailmap textures (9 per slot) |
+| `install_v2.py` | All-in-one installer — extracts all 13 textures per slot from all 37 archives, falls back to CBBE, overwrites only if source is larger |
 | `fix_failed_slots.py` | Re-tries slots that fell back to CBBE due to path-with-spaces issues |
 | `survey_body.py` | Surveys all archives to preview which textures are available |
+| `install_skins2.py` | *(legacy)* Face textures only |
+| `install_body.py` | *(legacy)* Body/hands only |
 
 ---
 

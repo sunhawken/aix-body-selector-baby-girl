@@ -212,6 +212,10 @@ float skinvalue
 
 Event OnReloadSettings(Actor player, ActorBase playerBase)
 	UpdateBody()
+	if skinvalue
+		UpdateSkin()
+		NiOverride.ApplyNodeOverrides(PlayerREF)
+	endIf
 	RegisterForSingleUpdate(2.0)
 EndEvent
 
@@ -257,7 +261,9 @@ Event OnSliderChanged(string callback, float value)
 	if callback == "ChangeAixSkinSelectorValue"
 		skinvalue = value
 		UpdateSkin()
+		NiOverride.ApplyNodeOverrides(PlayerREF)
 		PlayerREF.QueueNiNodeUpdate()
+		PlayerREF.UpdateWeight(PlayerREF.GetWeight())
 	endif
 EndEvent
 
@@ -684,15 +690,18 @@ EndFunction
 Function UpdateSkin()
 	bool isFemale = (Player.GetSex() == 1)
 	String node = Player.GetNthHeadPart(Player.GetIndexOfHeadPartByType(1)).GetPartName()
+	if node == ""
+		return
+	endIf
 	if !skinvalue
 		skinvalue = 0
 	endIf
 
 	if skinvalue == 0
-		NiOverride.RemoveNodeOverride(_playerActor, isFemale, node, 9, 0)
-		NiOverride.RemoveNodeOverride(_playerActor, isFemale, node, 9, 1)
-		NiOverride.RemoveNodeOverride(_playerActor, isFemale, node, 9, 2)
-		NiOverride.RemoveNodeOverride(_playerActor, isFemale, node, 9, 7)
+		NiOverride.RemoveNodeOverride(PlayerREF, isFemale, node, 9, 0)
+		NiOverride.RemoveNodeOverride(PlayerREF, isFemale, node, 9, 1)
+		NiOverride.RemoveNodeOverride(PlayerREF, isFemale, node, 9, 2)
+		NiOverride.RemoveNodeOverride(PlayerREF, isFemale, node, 9, 7)
 		return
 	endIf
 
@@ -711,10 +720,10 @@ Function UpdateSkin()
 		basePath = "aixbodyselector\\skin" + SlotPad(slot) + "\\" + gender + "\\"
 	endIf
 
-	NiOverride.AddNodeOverrideString(_playerActor, isFemale, node, 9, 0, basePath + facePrefix + ".dds", true)
-	NiOverride.AddNodeOverrideString(_playerActor, isFemale, node, 9, 1, basePath + facePrefix + "_msn.dds", true)
-	NiOverride.AddNodeOverrideString(_playerActor, isFemale, node, 9, 2, basePath + facePrefix + "_sk.dds", true)
-	NiOverride.AddNodeOverrideString(_playerActor, isFemale, node, 9, 7, basePath + facePrefix + "_s.dds", true)
+	NiOverride.AddNodeOverrideString(PlayerREF, isFemale, node, 9, 0, basePath + facePrefix + ".dds", true)
+	NiOverride.AddNodeOverrideString(PlayerREF, isFemale, node, 9, 1, basePath + facePrefix + "_msn.dds", true)
+	NiOverride.AddNodeOverrideString(PlayerREF, isFemale, node, 9, 2, basePath + facePrefix + "_sk.dds", true)
+	NiOverride.AddNodeOverrideString(PlayerREF, isFemale, node, 9, 7, basePath + facePrefix + "_s.dds", true)
 EndFunction
 
 Function SafelyUpdateSkin()
@@ -731,6 +740,8 @@ Event OnUpdate()
 	else
 		UpdateBody()
 		UpdateSkin()
+		NiOverride.ApplyNodeOverrides(PlayerREF)
 		PlayerREF.QueueNiNodeUpdate()
+		PlayerREF.UpdateWeight(PlayerREF.GetWeight())
 	endIf
 EndEvent

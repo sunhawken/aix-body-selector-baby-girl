@@ -39,50 +39,7 @@ The MCM slider in RaceMenu handles the swap live, no save reload needed. Slot 0 
 
 ## Skin Slot List
 
-| Slot | Skin |
-|------|------|
-| 00 | Default — reverts to base character skin |
-| 01 | Vanilla skin via unique body mesh path |
-| 02 | [Women of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/20555) |
-| 03 | [Leyenda Skin 4.0](https://www.nexusmods.com/skyrim/mods/10306) |
-| 04 | [Aesthetic Skin](https://www.nexusmods.com/skyrimspecialedition/mods/59086) |
-| 05 | [BI CBBE](https://www.nexusmods.com/skyrim/mods/24394) |
-| 06 | [Baby Girl CBBE](https://www.nexusmods.com/skyrimspecialedition/mods/92195) |
-| 07 | [Barbarous Beauty](https://www.nexusmods.com/skyrimspecialedition/mods/38604) |
-| 08 | [Bijin Skin](https://www.nexusmods.com/skyrimspecialedition/mods/20078) |
-| 09 | [BnP Female Skin 2K](https://www.nexusmods.com/skyrimspecialedition/mods/65274) |
-| 10 | [DDG Skin 4K](https://www.nexusmods.com/skyrimspecialedition/mods/65588) |
-| 11 | [DIBELLAN — True Skin](https://www.nexusmods.com/skyrimspecialedition/mods/63151) |
-| 12 | [Demoniac v1.12a](https://www.nexusmods.com/skyrimspecialedition/mods/19355) |
-| 13 | [Diamond 3BA Puffy Normal Maps](https://www.nexusmods.com/skyrimspecialedition/mods/45718) *(normal maps only)* |
-| 14 | [Diamond Textures CBBE v2](https://www.nexusmods.com/skyrimspecialedition/mods/45718) |
-| 15 | [Eos Skin AIO](https://www.nexusmods.com/skyrimspecialedition/mods/80326) |
-| 16 | [Fair Skin Complexion v13](https://www.nexusmods.com/skyrimspecialedition/mods/798) |
-| 17 | [GoldenVeil Skin](https://www.nexusmods.com/skyrimspecialedition/mods/175578) |
-| 18 | [Lovergirl CBBE](https://www.nexusmods.com/skyrimspecialedition/mods/83763) |
-| 19 | [Marshmallow Skin CBBE 4K](https://www.nexusmods.com/skyrimspecialedition/mods/58713) |
-| 20 | [Mature Skin](https://www.nexusmods.com/skyrimspecialedition/mods/26017) |
-| 21 | [Mature Skin Complexion](https://www.nexusmods.com/skyrimspecialedition/mods/90848) |
-| 22 | [Noble Elegance Skin Textures](https://www.nexusmods.com/skyrimspecialedition/mods/106378) |
-| 23 | [Northbourne Maiden Skin](https://www.nexusmods.com/skyrimspecialedition/mods/61803) |
-| 24 | [PB's Silky Skin](https://www.nexusmods.com/skyrimspecialedition/mods/95818) |
-| 25 | [Pride of Valhalla — Midgard](https://www.nexusmods.com/skyrimspecialedition/mods/682) |
-| 26 | Pure Suka Skin v2 |
-| 27 | [REALORE ULTIMA V2.1](https://www.nexusmods.com/skyrimspecialedition/mods/65577) |
-| 28 | [Real Girls Realistic Body Texture 2K](https://www.nexusmods.com/skyrimspecialedition/mods/75065) |
-| 29 | [Reverie](https://www.nexusmods.com/skyrimspecialedition/mods/64314) |
-| 30 | [Rogue Women of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/78938) |
-| 31 | [SG Female Textures Renewal](https://www.nexusmods.com/skyrimspecialedition/mods/12938) |
-| 32 | [Sunkiss Skin 4K](https://www.nexusmods.com/skyrimspecialedition/mods/70597) |
-| 33 | [Tempered Skins for Females](https://www.nexusmods.com/skyrimspecialedition/mods/8505) |
-| 34 | [The Pure](https://www.nexusmods.com/skyrimspecialedition/mods/20583) |
-| 35 | [True North Maiden X.69](https://www.nexusmods.com/skyrimspecialedition/mods/51796) |
-| 36 | [Vera Skin v2](https://www.nexusmods.com/skyrimspecialedition/mods/55334) |
-| 37 | [Zhizhen Female Skin 4K](https://www.nexusmods.com/skyrimspecialedition/mods/126288) *(face unique, body CBBE base — encoding limitation)* |
-| 38 | [laogu 16K Skin CBBE 3BA](https://www.nexusmods.com/skyrimspecialedition/mods/174370) |
-| 39–99 | CBBE base textures *(empty slots — drop your own DDS files in)* |
-
-See [`texture_sources.txt`](texture_sources.txt) for the exact internal archive path used for every texture in every slot.
+`00` Default · `01` Unique body mesh · `02` [Women of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/20555) · `03` [Leyenda Skin 4.0](https://www.nexusmods.com/skyrim/mods/10306) · `04` [Aesthetic Skin](https://www.nexusmods.com/skyrimspecialedition/mods/59086) · `05` [BI CBBE](https://www.nexusmods.com/skyrim/mods/24394) · `06` [Baby Girl CBBE](https://www.nexusmods.com/skyrimspecialedition/mods/92195) · `07` [Barbarous Beauty](https://www.nexusmods.com/skyrimspecialedition/mods/38604) · `08` [Bijin Skin](https://www.nexusmods.com/skyrimspecialedition/mods/20078) · `09` [BnP Female Skin 2K](https://www.nexusmods.com/skyrimspecialedition/mods/65274) · `10` [DDG Skin 4K](https://www.nexusmods.com/skyrimspecialedition/mods/65588) · `11` [DIBELLAN True Skin](https://www.nexusmods.com/skyrimspecialedition/mods/63151) · `12` [Demoniac v1.12a](https://www.nexusmods.com/skyrimspecialedition/mods/19355) · `13` [Diamond 3BA Normals](https://www.nexusmods.com/skyrimspecialedition/mods/45718) · `14` [Diamond Textures CBBE v2](https://www.nexusmods.com/skyrimspecialedition/mods/45718) · `15` [Eos Skin AIO](https://www.nexusmods.com/skyrimspecialedition/mods/80326) · `16` [Fair Skin Complexion v13](https://www.nexusmods.com/skyrimspecialedition/mods/798) · `17` [GoldenVeil Skin](https://www.nexusmods.com/skyrimspecialedition/mods/175578) · `18` [Lovergirl CBBE](https://www.nexusmods.com/skyrimspecialedition/mods/83763) · `19` [Marshmallow Skin 4K](https://www.nexusmods.com/skyrimspecialedition/mods/58713) · `20` [Mature Skin](https://www.nexusmods.com/skyrimspecialedition/mods/26017) · `21` [Mature Skin Complexion](https://www.nexusmods.com/skyrimspecialedition/mods/90848) · `22` [Noble Elegance](https://www.nexusmods.com/skyrimspecialedition/mods/106378) · `23` [Northbourne Maiden](https://www.nexusmods.com/skyrimspecialedition/mods/61803) · `24` [PB's Silky Skin](https://www.nexusmods.com/skyrimspecialedition/mods/95818) · `25` [Pride of Valhalla Midgard](https://www.nexusmods.com/skyrimspecialedition/mods/682) · `26` Pure Suka Skin v2 · `27` [REALORE ULTIMA V2.1](https://www.nexusmods.com/skyrimspecialedition/mods/65577) · `28` [Real Girls 2K](https://www.nexusmods.com/skyrimspecialedition/mods/75065) · `29` Xiumir Darrenstone · `30` [Rogue Women of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/78938) · `31` [SG Female Textures Renewal](https://www.nexusmods.com/skyrimspecialedition/mods/12938) · `32` [Sunkiss Skin 4K](https://www.nexusmods.com/skyrimspecialedition/mods/70597) · `33` [Tempered Skins for Females](https://www.nexusmods.com/skyrimspecialedition/mods/8505) · `34` [The Pure](https://www.nexusmods.com/skyrimspecialedition/mods/20583) · `35` [True North Maiden X.69](https://www.nexusmods.com/skyrimspecialedition/mods/51796) · `36` [Vera Skin v2](https://www.nexusmods.com/skyrimspecialedition/mods/55334) · `37` [Zhizhen 4K](https://www.nexusmods.com/skyrimspecialedition/mods/126288) · `38` [laogu 16K](https://www.nexusmods.com/skyrimspecialedition/mods/174370) · `39–99` *(empty — drop your own DDS files in)*
 
 ---
 

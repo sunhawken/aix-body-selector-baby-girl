@@ -209,8 +209,6 @@ Armor Property Clothes Auto
 float bodyvalue
 float skinvalue
 
-string Property BODY_CAT = "aix_body_select" AutoReadOnly
-string Property SKIN_CAT = "aix_skin_select" AutoReadOnly
 
 Event OnReloadSettings(Actor player, ActorBase playerBase)
 	UpdateBody()
@@ -243,17 +241,11 @@ Event OnFeetPaintRequest()
 EndEvent
 
 Event OnCategoryRequest()
-	AddCategory(BODY_CAT, "Body and Skin")
-	AddCategory(SKIN_CAT, "Face Texture")
-EndEvent
-
-Event OnResetMenu(Actor player, ActorBase playerBase)
-	RegisterForSingleUpdate(1.0)
 EndEvent
 
 Event OnSliderRequest(Actor player, ActorBase playerBase, Race actorRace, bool isFemale)
-	AddSliderEx("Body and Skin", BODY_CAT, "ChangeAixBodySelectorValue", 0.0, 99.0, 1.0, bodyvalue)
-	AddSliderEx("Face Texture", SKIN_CAT, "ChangeAixSkinSelectorValue", 0.0, 99.0, 1.0, skinvalue)
+	AddSlider("Body and Skin", 4, "ChangeAixBodySelectorValue", 0.0, 99.0, 1, bodyvalue)
+	AddSlider("Face Texture", 4, "ChangeAixSkinSelectorValue", 0.0, 99.0, 1, skinvalue)
 EndEvent
 
 Event OnSliderChanged(string callback, float value)

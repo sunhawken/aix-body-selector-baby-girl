@@ -2,6 +2,7 @@ Scriptname AixBodySelectorScript extends RaceMenuBase
 
 ActorBase Property Player Auto
 Actor Property PlayerREF Auto
+
 Armor Property SkinNaked Auto
 
 Armor Property Skin01NakedF Auto
@@ -208,7 +209,6 @@ Armor Property Clothes Auto
 
 float bodyvalue
 float skinvalue
-
 
 Event OnReloadSettings(Actor player, ActorBase playerBase)
 	UpdateBody()
@@ -678,7 +678,6 @@ Function UpdateBody()
 			Player.SetSkin(Skin99Naked)
 		endIf
 	endIf
-
 EndFunction
 
 String Function SlotPad(int slot)

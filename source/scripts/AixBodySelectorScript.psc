@@ -2,7 +2,6 @@ Scriptname AixBodySelectorScript extends RaceMenuBase
 
 ActorBase Property Player Auto
 Actor Property PlayerREF Auto
-
 Armor Property SkinNaked Auto
 
 Armor Property Skin01NakedF Auto
@@ -210,6 +209,9 @@ Armor Property Clothes Auto
 float bodyvalue
 float skinvalue
 
+string Property BODY_CAT = "aix_body_select" AutoReadOnly
+string Property SKIN_CAT = "aix_skin_select" AutoReadOnly
+
 Event OnReloadSettings(Actor player, ActorBase playerBase)
 	UpdateBody()
 	if skinvalue
@@ -241,11 +243,17 @@ Event OnFeetPaintRequest()
 EndEvent
 
 Event OnCategoryRequest()
+	AddCategory(BODY_CAT, "Body and Skin")
+	AddCategory(SKIN_CAT, "Face Texture")
+EndEvent
+
+Event OnResetMenu(Actor player, ActorBase playerBase)
+	RegisterForSingleUpdate(1.0)
 EndEvent
 
 Event OnSliderRequest(Actor player, ActorBase playerBase, Race actorRace, bool isFemale)
-	AddSlider("Body and Skin", 4, "ChangeAixBodySelectorValue", 0.0, 99.0, 1, bodyvalue)
-	AddSlider("Face Texture", 4, "ChangeAixSkinSelectorValue", 0.0, 99.0, 1, skinvalue)
+	AddSliderEx("Body and Skin", BODY_CAT, "ChangeAixBodySelectorValue", 0.0, 99.0, 1.0, bodyvalue)
+	AddSliderEx("Face Texture", SKIN_CAT, "ChangeAixSkinSelectorValue", 0.0, 99.0, 1.0, skinvalue)
 EndEvent
 
 Event OnSliderChanged(string callback, float value)
@@ -678,6 +686,7 @@ Function UpdateBody()
 			Player.SetSkin(Skin99Naked)
 		endIf
 	endIf
+
 EndFunction
 
 String Function SlotPad(int slot)

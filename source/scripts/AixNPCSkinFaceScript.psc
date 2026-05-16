@@ -9,11 +9,12 @@ Event OnEffectStart(Actor akTarget, Actor akCaster)
 		return
 	endIf
 	; Female NPCs only
-	if akTarget.GetSex() != 1
+	ActorBase akBase = akTarget.GetActorBase()
+	if !akBase || akBase.GetSex() != 1
 		return
 	endIf
 	; Read the skin SPID assigned to this NPC
-	Armor npcSkin = akTarget.GetActorBase().GetSkin()
+	Armor npcSkin = akBase.GetSkin()
 	if !npcSkin
 		return
 	endIf

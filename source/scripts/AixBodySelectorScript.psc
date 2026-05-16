@@ -244,11 +244,25 @@ Event OnCategoryRequest()
 EndEvent
 
 Event OnSliderRequest(Actor player, ActorBase playerBase, Race actorRace, bool isFemale)
-	AddSlider("Body and Skin", 4, "ChangeAixBodySelectorValue", 0.0, 99.0, 1, bodyvalue)
-	AddSlider("Face Texture", 4, "ChangeAixSkinSelectorValue", 0.0, 99.0, 1, skinvalue)
+	AddSlider("Skin + Face", 4, "ChangeAixCombinedSelectorValue", 0.0, 99.0, 1, skinvalue)
+	AddSlider("Body Only", 4, "ChangeAixBodySelectorValue", 0.0, 99.0, 1, bodyvalue)
+	AddSlider("Face Only", 4, "ChangeAixSkinSelectorValue", 0.0, 99.0, 1, skinvalue)
 EndEvent
 
 Event OnSliderChanged(string callback, float value)
+	if callback == "ChangeAixCombinedSelectorValue"
+		bodyvalue = value
+		skinvalue = value
+		if bodyvalue == 0
+			Player.SetSkin(SkinNaked)
+		endIf
+		UpdateBody()
+		UpdateSkin()
+		NiOverride.ApplyNodeOverrides(PlayerREF)
+		PlayerREF.QueueNiNodeUpdate()
+		PlayerREF.UpdateWeight(PlayerREF.GetWeight())
+	endif
+
 	if callback == "ChangeAixBodySelectorValue"
 		bodyvalue = value
 		if bodyvalue == 0

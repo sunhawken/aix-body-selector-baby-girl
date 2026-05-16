@@ -729,8 +729,12 @@ Function ApplyFaceToActor(Actor akTarget, int slot)
 	if !akTarget
 		return
 	endIf
-	bool isFemale = (akTarget.GetSex() == 1)
-	String node = akTarget.GetNthHeadPart(akTarget.GetIndexOfHeadPartByType(1)).GetPartName()
+	ActorBase akBase = akTarget.GetActorBase()
+	if !akBase
+		return
+	endIf
+	bool isFemale = (akBase.GetSex() == 1)
+	String node = akBase.GetNthHeadPart(akBase.GetIndexOfHeadPartByType(1)).GetPartName()
 	if node == ""
 		return
 	endIf

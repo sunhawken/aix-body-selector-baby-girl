@@ -690,41 +690,136 @@ EndFunction
 
 Function UpdateSkin()
 	bool isFemale = (Player.GetSex() == 1)
-	String node = Player.GetNthHeadPart(Player.GetIndexOfHeadPartByType(1)).GetPartName()
-	if node == ""
-		return
-	endIf
 	if !skinvalue
 		skinvalue = 0
 	endIf
-
 	if skinvalue == 0
+		String node = Player.GetNthHeadPart(Player.GetIndexOfHeadPartByType(1)).GetPartName()
+		if node == ""
+			return
+		endIf
 		NiOverride.RemoveNodeOverride(PlayerREF, isFemale, node, 9, 0)
 		NiOverride.RemoveNodeOverride(PlayerREF, isFemale, node, 9, 1)
 		NiOverride.RemoveNodeOverride(PlayerREF, isFemale, node, 9, 2)
 		NiOverride.RemoveNodeOverride(PlayerREF, isFemale, node, 9, 7)
 		return
 	endIf
+	ApplyFaceToActor(PlayerREF, skinvalue as int)
+EndFunction
 
-	int slot = skinvalue as int
+; ── NPC face texture support ──────────────────────────────────────────────────
+
+; Apply matching face texture to any actor (player or NPC).
+; Called by UpdateSkin() for the player, and by AixNPCSkinFaceScript for NPCs.
+Function ApplyFaceToActor(Actor akTarget, int slot)
+	if !akTarget
+		return
+	endIf
+	bool isFemale = (akTarget.GetSex() == 1)
+	String node = akTarget.GetNthHeadPart(akTarget.GetIndexOfHeadPartByType(1)).GetPartName()
+	if node == ""
+		return
+	endIf
 	String gender = "female"
 	String facePrefix = "femalehead"
 	if !isFemale
 		gender = "male"
 		facePrefix = "malehead"
 	endIf
-
 	String basePath
 	if slot == 1
 		basePath = "actors\\character\\unique\\" + gender + "\\"
 	else
 		basePath = "aixbodyselector\\skin" + SlotPad(slot) + "\\" + gender + "\\"
 	endIf
+	NiOverride.AddNodeOverrideString(akTarget, isFemale, node, 9, 0, basePath + facePrefix + ".dds", true)
+	NiOverride.AddNodeOverrideString(akTarget, isFemale, node, 9, 1, basePath + facePrefix + "_msn.dds", true)
+	NiOverride.AddNodeOverrideString(akTarget, isFemale, node, 9, 2, basePath + facePrefix + "_sk.dds", true)
+	NiOverride.AddNodeOverrideString(akTarget, isFemale, node, 9, 7, basePath + facePrefix + "_s.dds", true)
+	NiOverride.ApplyNodeOverrides(akTarget)
+EndFunction
 
-	NiOverride.AddNodeOverrideString(PlayerREF, isFemale, node, 9, 0, basePath + facePrefix + ".dds", true)
-	NiOverride.AddNodeOverrideString(PlayerREF, isFemale, node, 9, 1, basePath + facePrefix + "_msn.dds", true)
-	NiOverride.AddNodeOverrideString(PlayerREF, isFemale, node, 9, 2, basePath + facePrefix + "_sk.dds", true)
-	NiOverride.AddNodeOverrideString(PlayerREF, isFemale, node, 9, 7, basePath + facePrefix + "_s.dds", true)
+; Map a skin Armor form back to its slot number (02–39).
+; Returns 0 if the skin is not one of ours.
+int Function GetSlotForSkin(Armor akSkin)
+	if akSkin == Skin02NakedF
+		return 2
+	elseIf akSkin == Skin03NakedF
+		return 3
+	elseIf akSkin == Skin04NakedF
+		return 4
+	elseIf akSkin == Skin05NakedF
+		return 5
+	elseIf akSkin == Skin06NakedF
+		return 6
+	elseIf akSkin == Skin07NakedF
+		return 7
+	elseIf akSkin == Skin08NakedF
+		return 8
+	elseIf akSkin == Skin09NakedF
+		return 9
+	elseIf akSkin == Skin10NakedF
+		return 10
+	elseIf akSkin == Skin11NakedF
+		return 11
+	elseIf akSkin == Skin12NakedF
+		return 12
+	elseIf akSkin == Skin13NakedF
+		return 13
+	elseIf akSkin == Skin14NakedF
+		return 14
+	elseIf akSkin == Skin15NakedF
+		return 15
+	elseIf akSkin == Skin16NakedF
+		return 16
+	elseIf akSkin == Skin17NakedF
+		return 17
+	elseIf akSkin == Skin18NakedF
+		return 18
+	elseIf akSkin == Skin19NakedF
+		return 19
+	elseIf akSkin == Skin20NakedF
+		return 20
+	elseIf akSkin == Skin21NakedF
+		return 21
+	elseIf akSkin == Skin22NakedF
+		return 22
+	elseIf akSkin == Skin23NakedF
+		return 23
+	elseIf akSkin == Skin24NakedF
+		return 24
+	elseIf akSkin == Skin25NakedF
+		return 25
+	elseIf akSkin == Skin26NakedF
+		return 26
+	elseIf akSkin == Skin27NakedF
+		return 27
+	elseIf akSkin == Skin28NakedF
+		return 28
+	elseIf akSkin == Skin29NakedF
+		return 29
+	elseIf akSkin == Skin30NakedF
+		return 30
+	elseIf akSkin == Skin31NakedF
+		return 31
+	elseIf akSkin == Skin32NakedF
+		return 32
+	elseIf akSkin == Skin33NakedF
+		return 33
+	elseIf akSkin == Skin34NakedF
+		return 34
+	elseIf akSkin == Skin35NakedF
+		return 35
+	elseIf akSkin == Skin36NakedF
+		return 36
+	elseIf akSkin == Skin37NakedF
+		return 37
+	elseIf akSkin == Skin38NakedF
+		return 38
+	elseIf akSkin == Skin39NakedF
+		return 39
+	endIf
+	return 0
 EndFunction
 
 Function SafelyUpdateSkin()
